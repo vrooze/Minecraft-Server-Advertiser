@@ -1,3 +1,4 @@
+![CodeQL](https://github.com/vrooze/Minecraft-Server-Advertiser/workflows/CodeQL/badge.svg)
 
 # Minecraft Server Advertiser
 
